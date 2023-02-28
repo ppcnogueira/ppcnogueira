@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
 </div>
-
+<br>
 <div> 
   
   <a href = "mailto:ppcnogueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
